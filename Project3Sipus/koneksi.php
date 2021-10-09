@@ -1,7 +1,7 @@
 <?php
-$server = "localhost";
-$user = "root";
-$password = "";
+$server = "10.0.0.206";
+$user = "farisikhhaq";
+$password = "Fari5261200@";
 $nama_database = "dbpus";
 $db = mysqli_connect($server, $user, $password, $nama_database);
 if(!$db) {
